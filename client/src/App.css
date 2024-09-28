@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input, textarea, button {
+  margin: 10px;
+}
